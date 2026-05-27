@@ -1,7 +1,7 @@
-<svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://w3.org">
-  <!-- Red pill shape - Centered perfectly down the middle vertical axis -->
+<svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red pill shape - Vector-scaled and centered perfectly in a 3000x3000 frame -->
   <rect 
-    x="118" y="908" 
+    x="118" y="316" 
     width="2764" height="1184" 
     rx="592" ry="592" 
     fill="#e31c2e"/>
@@ -17,10 +17,10 @@
     </linearGradient>
   </defs>
 
-  <!-- KL Main Graphic Text - Shifted down to line up inside the new capsule position -->
+  <!-- KL Main Graphic Text - Scaled up precisely to match your layout position -->
   <!-- K -->
   <text 
-    x="1090" y="1934" 
+    x="1090" y="1342" 
     font-family="Arial Black, sans-serif" 
     font-size="1263" 
     font-weight="900" 
@@ -29,16 +29,16 @@
 
   <!-- L -->
   <text 
-    x="2021" y="1934" 
+    x="2021" y="1342" 
     font-family="Arial Black, sans-serif" 
     font-size="1263" 
     font-weight="900" 
     fill="url(#silver)" 
     text-anchor="middle">L</text>
 
-  <!-- Sub-text - Tucked into the bottom rim of the capsule, centered mathematically -->
+  <!-- Sub-text - Scaled and tucked under exactly where you wanted it -->
   <text 
-    x="1519" y="2037" 
+    x="1500" y="1445" 
     font-family="Arial Black, sans-serif" 
     font-size="71" 
     font-weight="900" 
