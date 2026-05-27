@@ -1,12 +1,5 @@
 <svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://w3.org">
-  <!-- Red pill shape - Vector-scaled and centered perfectly in a 3000x3000px square frame -->
-  <rect 
-    x="118" y="700" 
-    width="2764" height="1184" 
-    rx="592" ry="592" 
-    fill="#e31c2e"/>
-
-  <!-- Silver gradient for KL -->
+  <rect x="118" y="700" width="2764" height="1184" rx="592" ry="592" fill="#e31c2e"/>
   <defs>
     <linearGradient id="silver" x1="50%" y1="18%" x2="50%" y2="88%">
       <stop offset="0%" stop-color="#f8f8f8"/>
@@ -16,33 +9,7 @@
       <stop offset="100%" stop-color="#a0a0a0"/>
     </linearGradient>
   </defs>
-
-  <!-- KL Main Graphic Text - Kept at your exact position and scaling proportions -->
-  <!-- K -->
-  <text 
-    x="1090" y="1726" 
-    font-family="Arial Black, sans-serif" 
-    font-size="1263" 
-    font-weight="900" 
-    fill="url(#silver)" 
-    text-anchor="middle">K</text>
-
-  <!-- L -->
-  <text 
-    x="2021" y="1726" 
-    font-family="Arial Black, sans-serif" 
-    font-size="1263" 
-    font-weight="900" 
-    fill="url(#silver)" 
-    text-anchor="middle">L</text>
-
-  <!-- High-contrast RED Subtext cleanly centered inside the bottom canvas area -->
-  <text 
-    x="1500" y="2350" 
-    font-family="Arial Black, sans-serif" 
-    font-size="140" 
-    font-weight="900" 
-    fill="#e31c2e" 
-    letter-spacing="25" 
-    text-anchor="middle">KERNEL LEVEL</text>
+  <text x="1090" y="1726" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle">K</text>
+  <text x="2021" y="1726" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle">L</text>
+  <text x="1500" y="2350" font-family="Arial Black, sans-serif" font-size="140" font-weight="900" fill="#e31c2e" letter-spacing="25" text-anchor="middle">KERNEL LEVEL</text>
 </svg>
