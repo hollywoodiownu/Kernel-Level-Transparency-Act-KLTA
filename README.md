@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="KL_Red_Pill.svg" alt="KL Capsule Logo" width="450"/>
+  <img src="KL_Red_Pill_With_Text.svg" alt="KL Capsule Logo" width="450"/>
 </p>
 
 <br>
