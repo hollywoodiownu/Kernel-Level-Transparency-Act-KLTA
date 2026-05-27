@@ -32,6 +32,7 @@ Currently, tech and gaming corporations sell and distribute software without mak
 Kernel-level drivers deployed by corporate entities represent an expansive and highly privileged attack surface on a user's personal operating system. If a corporation's proprietary kernel anti-cheat mechanism contains a critical software vulnerability, malicious actors could exploit that flaw to bypass standard operating system defenses, potentially hijacking a consumer's entire PC, harvesting sensitive data, or rendering the hardware completely inoperable. 
 
 This systemic vulnerability is exemplified by specific, widely deployed corporate software suites operating at the Ring 0 layer:
+
 * **Riot Vanguard** (*Valorant*, *League of Legends* — Riot Games / Tencent)
 * **Easy Anti-Cheat / EAC** by Epic Games (*Fortnite*, *Apex Legends*)
 * **Ricochet Anti-Cheat** by Activision Blizzard / Microsoft (*Call of Duty: Warzone*)
@@ -61,4 +62,3 @@ Because corporate Ring 0 drivers retain unchecked capabilities to continuously r
 
 ***
 *Maintained under the authority of Colton "Hollywoodiownu" Harris. For official inquiries regarding compliance integration, corporate legal standardization frameworks, or public policy submissions, review the public distribution repository records.*
-
