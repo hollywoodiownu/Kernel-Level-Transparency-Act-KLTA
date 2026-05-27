@@ -68,5 +68,26 @@ Because corporate Ring 0 drivers retain unchecked capabilities to continuously r
 * **Standalone Consent Intercepts:** Corporate installation routines must isolate the kernel driver installation. Setup sequences must generate a dedicated prompt showing the **KL™ Logo**, preventing silent automatic baseline initialization.
 * **Right of Refusal:** Users retain an absolute right to select a "Decline" configuration option to avoid corporate kernel software installation without incurring underlying hardware modifications.
 
+---
+
+## Corporate Asset Implementation Guide
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>Option A: Storefront Indicator</h3>
+      <img src="KL_Red_Pill_With_Text.svg" alt="Primary Compliance Badge" width="300"/>
+      <br><br>
+      <b>Deployment Context:</b> Digital retail store pages, physical packaging matrices, and pre-download disclosure frames. Explicitly clarifies system access to non-technical users.
+    </td>
+    <td align="center" width="50%">
+      <h3>Option B: In-Game Micro-Badge</h3>
+      <img src="KL_Red_Pill.svg" alt="Clean Compliance Stamp" width="300"/>
+      <br><br>
+      <b>Deployment Context:</b> Client splash screens, persistent loading UI arrays, and taskbar task system tracking corners. Designed for micro-scaling legibility inside engines.
+    </td>
+  </tr>
+</table>
+
 ***
 *Maintained under the authority of Colton "Hollywoodiownu" Harris. For official inquiries regarding compliance integration, corporate legal standardization frameworks, or public policy submissions, review the public distribution repository records.*
