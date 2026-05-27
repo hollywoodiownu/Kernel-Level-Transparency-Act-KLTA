@@ -1,8 +1,12 @@
-# Kernel-Level Transparency Act (KLTA / "Kill-Tah")
+<p align="center">
+  <h1>Kernel-Level Transparency Act (KLTA / "Kill-Tah")</h1>
+</p>
 
 <p align="center">
-  <img src="KL_Red_Pill.svg" alt="KL Capsule Logo" width="400"/>
+  <img src="KL_Red_Pill.svg" alt="KL Capsule Logo" width="450"/>
 </p>
+
+<br>
 
 Official compliance documentation and standardized open-source asset repository for the **Kernel-Level Transparency Act (KLTA)**, pronounced **"Kill-Tah"**. 
 
