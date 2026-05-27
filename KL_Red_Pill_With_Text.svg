@@ -1,4 +1,12 @@
 <svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://w3.org">
+  <!-- Red pill shape - Vector-scaled and centered perfectly in a 3000x3000 frame -->
+  <rect 
+    x="118" y="316" 
+    width="2764" height="1184" 
+    rx="592" ry="592" 
+    fill="#e31c2e"/>
+
+  <!-- Silver gradient for KL -->
   <defs>
     <linearGradient id="silver" x1="50%" y1="18%" x2="50%" y2="88%">
       <stop offset="0%" stop-color="#f8f8f8"/>
@@ -8,8 +16,33 @@
       <stop offset="100%" stop-color="#a0a0a0"/>
     </linearGradient>
   </defs>
-  <rect x="118" y="700" width="2764" height="1184" rx="592" ry="592" fill="#e31c2e"/>
-  <text x="1090" y="1726" font-family="sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle">K</text>
-  <text x="2021" y="1726" font-family="sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle">L</text>
-  <text x="1500" y="2350" font-family="sans-serif" font-size="140" font-weight="900" fill="#e31c2e" letter-spacing="25" text-anchor="middle">KERNEL LEVEL</text>
+
+  <!-- KL Main Graphic Text - Scaled up precisely to match your layout position -->
+  <!-- K -->
+  <text 
+    x="1090" y="1342" 
+    font-family="Arial Black, sans-serif" 
+    font-size="1263" 
+    font-weight="900" 
+    fill="url(#silver)" 
+    text-anchor="middle">K</text>
+
+  <!-- L -->
+  <text 
+    x="2021" y="1342" 
+    font-family="Arial Black, sans-serif" 
+    font-size="1263" 
+    font-weight="900" 
+    fill="url(#silver)" 
+    text-anchor="middle">L</text>
+
+  <!-- Sub-text - Scaled and tucked under exactly where you wanted it -->
+  <text 
+    x="1500" y="1445" 
+    font-family="Arial Black, sans-serif" 
+    font-size="71" 
+    font-weight="900" 
+    fill="#ffffff" 
+    letter-spacing="39" 
+    text-anchor="middle">KERNEL LEVEL</text>
 </svg>
