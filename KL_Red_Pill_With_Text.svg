@@ -1,4 +1,52 @@
 <svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
+  <!-- Red pill shape - Centered perfectly down the middle vertical axis -->
+  <rect 
+    x="118" y="908" 
+    width="2764" height="1184" 
+    rx="592" ry="592" 
+    fill="#e31c2e"/>
+
+  <!-- Silver gradient for KL -->
+  <defs>
+    <linearGradient id="silver" x1="50%" y1="18%" x2="50%" y2="88%">
+      <stop offset="0%" stop-color="#f8f8f8"/>
+      <stop offset="35%" stop-color="#e8e8e8"/>
+      <stop offset="55%" stop-color="#d0d0d0"/>
+      <stop offset="80%" stop-color="#b8b8b8"/>
+      <stop offset="100%" stop-color="#a0a0a0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- KL Main Graphic Text - Shifted down to line up inside the new capsule position -->
+  <!-- K -->
+  <text 
+    x="1090" y="1934" 
+    font-family="Arial Black, sans-serif" 
+    font-size="1263" 
+    font-weight="900" 
+    fill="url(#silver)" 
+    text-anchor="middle">K</text>
+
+  <!-- L -->
+  <text 
+    x="2021" y="1934" 
+    font-family="Arial Black, sans-serif" 
+    font-size="1263" 
+    font-weight="900" 
+    fill="url(#silver)" 
+    text-anchor="middle">L</text>
+
+  <!-- Sub-text - Tucked into the bottom rim of the capsule, centered mathematically -->
+  <text 
+    x="1519" y="2037" 
+    font-family="Arial Black, sans-serif" 
+    font-size="71" 
+    font-weight="900" 
+    fill="#ffffff" 
+    letter-spacing="39" 
+    text-anchor="middle">KERNEL LEVEL</text>
+</svg>
+<svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
   <!-- Red pill shape - Centered perfectly in your 3000x3000px frame -->
   <rect 
     x="118" y="316" 
