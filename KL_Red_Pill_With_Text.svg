@@ -7,9 +7,16 @@
       <stop offset="80%" stop-color="#b8b8b8"/>
       <stop offset="100%" stop-color="#a0a0a0"/>
     </linearGradient>
+    <linearGradient id="silver-sub" x1="50%" y1="0%" x2="50%" y2="100%">
+      <stop offset="0%" stop-color="#f8f8f8"/>
+      <stop offset="35%" stop-color="#e8e8e8"/>
+      <stop offset="55%" stop-color="#d0d0d0"/>
+      <stop offset="80%" stop-color="#b8b8b8"/>
+      <stop offset="100%" stop-color="#a0a0a0"/>
+    </linearGradient>
   </defs>
   <rect x="118" y="908" width="2764" height="1184" rx="592" ry="592" fill="#e31c2e" style="fill:rgb(227, 28, 46);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
   <text x="1090" y="1934" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:1263px;font-weight:900;text-anchor:middle;dominant-baseline:auto">K</text>
   <text x="2021" y="1934" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:1263px;font-weight:900;text-anchor:middle;dominant-baseline:auto">L</text>
-  <text x="1500" y="2020" font-family="Arial Black, sans-serif" font-size="71" font-weight="900" fill="#ffffff" letter-spacing="39" text-anchor="middle" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:71px;font-weight:900;text-anchor:middle;dominant-baseline:auto">KERNEL LEVEL</text>
+  <text x="1500" y="2020" font-family="Arial Black, sans-serif" font-size="71" font-weight="900" fill="url(#silver-sub)" letter-spacing="39" text-anchor="middle" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:71px;font-weight:900;text-anchor:middle;dominant-baseline:auto">KERNEL LEVEL</text>
 </svg>
