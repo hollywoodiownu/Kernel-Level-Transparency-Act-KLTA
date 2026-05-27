@@ -1,7 +1,7 @@
 <svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
   <!-- Red pill shape - Vector-scaled and centered perfectly in a 3000x3000 frame -->
   <rect 
-    x="118" y="908" 
+    x="118" y="316" 
     width="2764" height="1184" 
     rx="592" ry="592" 
     fill="#e31c2e"/>
