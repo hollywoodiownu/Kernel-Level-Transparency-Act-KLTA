@@ -1,5 +1,9 @@
 # Kernel-Level Transparency Act (KLTA / "Kill-Tah")
 
+<p align="center">
+  <img src="KL_Red_Pill_With_Text.svg" alt="KL Capsule Logo" width="400"/>
+</p>
+
 Official compliance documentation and standardized open-source asset repository for the **Kernel-Level Transparency Act (KLTA)**, pronounced **"Kill-Tah"**. 
 
 * **Author/Originator:** Colton "Hollywoodiownu" Harris
