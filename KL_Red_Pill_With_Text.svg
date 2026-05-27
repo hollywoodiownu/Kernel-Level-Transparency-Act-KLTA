@@ -1,5 +1,5 @@
 <svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
-  <!-- Red pill shape - Vector-scaled and centered perfectly in a 3000x3000 frame -->
+  <!-- Red pill shape - Centered perfectly in your 3000x3000px frame -->
   <rect 
     x="118" y="316" 
     width="2764" height="1184" 
@@ -17,7 +17,7 @@
     </linearGradient>
   </defs>
 
-  <!-- KL Main Graphic Text - Scaled up precisely to match your layout position -->
+  <!-- KL Main Graphic Text - Kept at your exact position and scaling proportions -->
   <!-- K -->
   <text 
     x="1090" y="1342" 
@@ -36,9 +36,9 @@
     fill="url(#silver)" 
     text-anchor="middle">L</text>
 
-  <!-- Sub-text - Scaled and tucked under exactly where you wanted it -->
+  <!-- Sub-text - Offset to x="1519" to cancel out the extra letter-spacing space -->
   <text 
-    x="1500" y="1445" 
+    x="1519" y="1445" 
     font-family="Arial Black, sans-serif" 
     font-size="71" 
     font-weight="900" 
