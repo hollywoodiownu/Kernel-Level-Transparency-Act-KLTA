@@ -1,5 +1,4 @@
-<svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
-  <rect x="118" y="848" width="2764" height="1184" rx="592" ry="592" fill="#e31c2e"/>
+<svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://www.w3.org/2000/svg" style="">
   <defs>
     <linearGradient id="silver" x1="50%" y1="18%" x2="50%" y2="88%">
       <stop offset="0%" stop-color="#f8f8f8"/>
@@ -9,7 +8,8 @@
       <stop offset="100%" stop-color="#a0a0a0"/>
     </linearGradient>
   </defs>
-  <text x="1090" y="1874" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle">K</text>
-  <text x="2021" y="1874" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle">L</text>
-  <text x="1500" y="2075" font-family="Arial Black, sans-serif" font-size="71" font-weight="900" fill="#ffffff" letter-spacing="39" text-anchor="middle">KERNEL LEVEL</text>
+  <rect x="118" y="908" width="2764" height="1184" rx="592" ry="592" fill="#e31c2e" style="fill:rgb(227, 28, 46);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="1090" y="1934" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:1263px;font-weight:900;text-anchor:middle;dominant-baseline:auto">K</text>
+  <text x="2021" y="1934" font-family="Arial Black, sans-serif" font-size="1263" font-weight="900" fill="url(#silver)" text-anchor="middle" style="stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:1263px;font-weight:900;text-anchor:middle;dominant-baseline:auto">L</text>
+  <text x="1500" y="2020" font-family="Arial Black, sans-serif" font-size="71" font-weight="900" fill="#ffffff" letter-spacing="39" text-anchor="middle" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(251, 251, 254);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:Arial Black, sans-serif;font-size:71px;font-weight:900;text-anchor:middle;dominant-baseline:auto">KERNEL LEVEL</text>
 </svg>
