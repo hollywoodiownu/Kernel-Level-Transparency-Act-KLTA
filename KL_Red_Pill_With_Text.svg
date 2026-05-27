@@ -1,7 +1,7 @@
 <svg viewBox="0 0 3000 3000" width="3000" height="3000" xmlns="http://w3.org">
   <!-- Red pill shape - Vector-scaled and centered perfectly in a 3000x3000 frame -->
   <rect 
-    x="118" y="316" 
+    x="118" y="600" 
     width="2764" height="1184" 
     rx="592" ry="592" 
     fill="#e31c2e"/>
@@ -20,7 +20,7 @@
   <!-- KL Main Graphic Text - Scaled up precisely to match your layout position -->
   <!-- K -->
   <text 
-    x="1090" y="1342" 
+    x="1090" y="1626" 
     font-family="Arial Black, sans-serif" 
     font-size="1263" 
     font-weight="900" 
@@ -29,7 +29,7 @@
 
   <!-- L -->
   <text 
-    x="2021" y="1342" 
+    x="2021" y="1626" 
     font-family="Arial Black, sans-serif" 
     font-size="1263" 
     font-weight="900" 
@@ -38,11 +38,11 @@
 
   <!-- Sub-text - Scaled and tucked under exactly where you wanted it -->
   <text 
-    x="1500" y="1445" 
+    x="1500" y="2100" 
     font-family="Arial Black, sans-serif" 
-    font-size="71" 
+    font-size="140" 
     font-weight="900" 
-    fill="#ffffff" 
-    letter-spacing="39" 
+    fill="#e31c2e" 
+    letter-spacing="20" 
     text-anchor="middle">KERNEL LEVEL</text>
 </svg>
