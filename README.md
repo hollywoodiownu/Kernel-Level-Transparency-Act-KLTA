@@ -90,4 +90,6 @@ Because corporate Ring 0 drivers retain unchecked capabilities to continuously r
 </table>
 
 ***
-*Maintained under the authority of Colton "Hollywoodiownu" Harris. For official inquiries regarding compliance integration, corporate legal standardization frameworks, or public policy submissions, review the public distribution repository records.*
+***
+*Maintained under the authority of Colton "Hollywoodiownu" Harris. For official inquiries regarding compliance integration, corporate legal standardization frameworks, or public policy submissions, review the public distribution repository records. Please note: The Kernel-Level Transparency Act (KLTA) is currently a public legislative proposal and consumer-rights initiative; it is not a mandated state or federal law.*
+
